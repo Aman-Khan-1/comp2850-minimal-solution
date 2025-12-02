@@ -1,0 +1,10 @@
+id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+1,Balancing tasks,stories.md#S1,Job story,Get reminders,usability,Medium,"Cognitive, ADHD","P-A notes L12",Current implementation allows reminders to be set on,false
+2,App navigation,stories.md#S2,Job story,Larger app icon size and voice navigation,accessibility,High,"Colour and visual impairment","P-A notes L24,Current implementation does not have any of these features,true
+3,Attending meeting,stories.md#S3,Job story,External reminder before meeting starts,usability,Medium,"Screen readers, hearing impairment","P-A notes L36",Part of the problem is due to the user's forgetfulness for the reminder,false
+4,Working while being partially-sighted,stories.md#S4,Job story,keyboard shortcuts and voice commands,accessibility,high,"dyslexic, speech impaired","P-A notes L48: WCAG 2.1.1",without these features would cause user excess difficulty and mental overload,true
+5,Brightness when working outside,stories.md#S5,Job story,Visibility against high sunlight,Accessibility,Medium,"Low vision, colour-blindness","P-A notes L60: WCAG 1.4.3",needs colour adjusting to bright conditions,false
+6,Task prioritisation,stories.md#S6,suggest tasks to do based on importance/deadlines,usability,low,"Cognitive, digital literacy","P-A notes L72",adding ai suggestions would ease effort from the user and save them energy,false
+7,No progress indicator for completed tasks,stories.md#S11,Job story,Motivation & feedback,Usability,Low,Cognitive,"P-B notes L80",nice to have,false
+8,Add subtle animation to task completion,observation,Job story,Positive feedback loop,Usability,Low,Cognitive,"P-B notes L92",Suggestion made for a visual cue or animation when marking tasks done; current implementation just removes item",false
+
