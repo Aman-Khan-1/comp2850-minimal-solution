@@ -68,3 +68,30 @@
 **Evidence**: Participant A (notes Q6 L72)
 **Inclusion risk**: Cognitive, digital literacty
 **Type**: Job story
+
+---
+
+## Story 1: Task planning
+**Situation**: When I'm reviewing my schedule for the week
+**Motivation**: I want to add a new task directly into my list as I notice gaps or priorities
+**Outcome**: So I can keep my plans up to date and ensure nothing important is overlooked
+**Underlying need**: Because having all tasks in one place helps me stay organized and reduces the chance of missing deadlines.
+
+## Story 2: Task clarity
+**Situation**: When I notice that a task is unclear
+**Motivation**: I want to quickly rename it
+**Outcome**: So I can keep my task understandable and clear
+**Underlying need**: Because ambiguous tasks can confuse me.
+
+## Story 3: Filter Tasks for University Work
+**Situation**: When I'm looking at my task list and only want to focus on academic responsibilities
+**Motivation**: I want to filter the tasks so I only see those involving my University work
+**Outcome**: So I can concentrate on what's most relevant to my studies without being distracted by unrelated tasks
+**Underlying need**: Because keeping my academic tasks visible helps me stay organised and ensures I don't miss important deadlines.
+
+## Story 4: Deleting completed task
+**Situation**: When I have completed a task
+**Motivation**: I want to delete it afterwards.
+**Outcome**: So I know which tasks are left to complete
+**Underlying need**: Because unremovable tasks cause uncertainty of what I need to do.
+

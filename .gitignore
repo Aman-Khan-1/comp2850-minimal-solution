@@ -23,3 +23,9 @@ package-lock.json
 
 # Generated slide outputs
 slides-output/
+
+# Adding 
+/data/tasks.csv
+/data/metrics.csv
+/wk*/research/*notes.md
+*.log
